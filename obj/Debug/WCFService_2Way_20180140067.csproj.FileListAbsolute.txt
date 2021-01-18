@@ -1,0 +1,6 @@
+D:\Visual Studio 2017\Projects\WCFService_2Way_20180140067\obj\Debug\WCFService_2Way_20180140067.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\WCFService_2Way_20180140067\bin\Debug\WCFService_2Way_20180140067.dll.config
+D:\Visual Studio 2017\Projects\WCFService_2Way_20180140067\bin\Debug\WCFService_2Way_20180140067.dll
+D:\Visual Studio 2017\Projects\WCFService_2Way_20180140067\bin\Debug\WCFService_2Way_20180140067.pdb
+D:\Visual Studio 2017\Projects\WCFService_2Way_20180140067\obj\Debug\WCFService_2Way_20180140067.dll
+D:\Visual Studio 2017\Projects\WCFService_2Way_20180140067\obj\Debug\WCFService_2Way_20180140067.pdb
